@@ -8,7 +8,7 @@ Each week builds on the last — from basic syntax to backend engineering.
 
 ## Progress
 
-- [x] Week 1 — Core Python (types, loops, functions) _(in progress)_
+- [x] Week 1 — Core Python (types, loops, functions) ✅
 - [ ] Week 2 — Data Structures (lists, dicts, stacks, queues)
 - [ ] Week 3 — Object Oriented Programming
 - [ ] Week 4 — File I/O & Error Handling
