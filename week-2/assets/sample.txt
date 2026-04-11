@@ -1,0 +1,11 @@
+Python is a powerful and versatile programming language used by developers 
+around the world. Backend engineering involves building APIs, databases, and 
+server-side logic that powers modern applications. Developers who understand 
+data structures like linked lists, stacks, and queues write more efficient 
+and performant code. Learning programming requires consistent practice and 
+building real projects. Python developers use frameworks like FastAPI and 
+Django to build backend systems. Databases like PostgreSQL store and retrieve 
+data efficiently. Every backend engineer should understand how APIs work and 
+how data flows through a system. Writing clean code and following best 
+practices makes software easier to maintain and scale. Programming is a craft 
+that improves with every project you build and every problem you solve.
