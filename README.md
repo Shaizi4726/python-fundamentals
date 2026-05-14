@@ -10,7 +10,7 @@ Each week builds on the last — from basic syntax to backend engineering.
 
 - [x] Week 1 — Core Python (types, loops, functions) ✅
 - [x] Week 2 — Data Structures (lists, dicts, stacks, queues) ✅
-- [ ] Week 3 — Object Oriented Programming
+- [x] Week 3 — Object Oriented Programming ✅
 - [ ] Week 4 — File I/O & Error Handling
 - [ ] Week 5–6 — Modules, APIs, Virtual Environments
 - [ ] Week 7–8 — Backend with FastAPI
